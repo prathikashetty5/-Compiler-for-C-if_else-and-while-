@@ -1,4 +1,4 @@
-# Compiler-for-C-if_else-and-while
+# Compiler-for-C-if_else_and_while
 Simulation of front end phase of C Compiler involving if-else construct using lex and yacc tools.
 
 Running Instructions: 1.run -> sh compile.sh
